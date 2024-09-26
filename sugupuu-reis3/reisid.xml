@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<reisid xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="reisid.xsd">
+	<reis reisiNumber="7216">
+		<lennujaamKood>YE-SN</lennujaamKood>
+		<reisinumber>7216</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Sana'a International Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>126</reisiaeg>
+		<sihtkoht>Don Mueang International Airport</sihtkoht>
+		<hinnad>345.13</hinnad>
+		<ettevotteNimi>Edgewire</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="522">
+		<lennujaamKood>CA-QC</lennujaamKood>
+		<reisinumber>522</reisinumber>
+		<lennujaamKood>
+			<lennujaam>CFB Bagotville</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>118</reisiaeg>
+		<sihtkoht>Bristol Airport</sihtkoht>
+		<hinnad>1064.82</hinnad>
+		<ettevotteNimi>Zava</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="118">
+		<lennujaamKood>PT-20</lennujaamKood>
+		<reisinumber>118</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Horta Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>404</reisiaeg>
+		<sihtkoht>Atka Airport</sihtkoht>
+		<hinnad>1191.21</hinnad>
+		<ettevotteNimi>Jayo</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="2220">
+		<lennujaamKood>CA-BC</lennujaamKood>
+		<reisinumber>2220</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Hudsons Hope Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>381</reisiaeg>
+		<sihtkoht>Rørvik Airport, Ryum</sihtkoht>
+		<hinnad>255.82</hinnad>
+		<ettevotteNimi>Abatz</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="1653">
+		<lennujaamKood>CA-YT</lennujaamKood>
+		<reisinumber>1653</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Mayo Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>376</reisiaeg>
+		<sihtkoht>Bisbee Municipal Airport</sihtkoht>
+		<hinnad>68.51</hinnad>
+		<ettevotteNimi>Jatri</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="685">
+		<lennujaamKood>CA-ON</lennujaamKood>
+		<reisinumber>685</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Webequie Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>19</reisiaeg>
+		<sihtkoht>Suavanao Airport</sihtkoht>
+		<hinnad>864.83</hinnad>
+		<ettevotteNimi>Cogidoo</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="1791">
+		<lennujaamKood>US-TX</lennujaamKood>
+		<reisinumber>1791</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Abilene Regional Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>679</reisiaeg>
+		<sihtkoht>Mountain Airport</sihtkoht>
+		<hinnad>1313.58</hinnad>
+		<ettevotteNimi>Zoomlounge</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="2277">
+		<lennujaamKood>CA-SK</lennujaamKood>
+		<reisinumber>2277</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Kindersley Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>208</reisiaeg>
+		<sihtkoht>Sitka Rocky Gutierrez Airport</sihtkoht>
+		<hinnad>1540.51</hinnad>
+		<ettevotteNimi>Riffpath</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="94">
+		<lennujaamKood>CA-NU</lennujaamKood>
+		<reisinumber>94</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Rankin Inlet Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>178</reisiaeg>
+		<sihtkoht>Sandane Airport (Anda)</sihtkoht>
+		<hinnad>290.04</hinnad>
+		<ettevotteNimi>Kamba</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="59">
+		<lennujaamKood>MX-BCN</lennujaamKood>
+		<reisinumber>59</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Guerrero Negro Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>160</reisiaeg>
+		<sihtkoht>Sialkot Airport</sihtkoht>
+		<hinnad>768.86</hinnad>
+		<ettevotteNimi>Nlounge</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="150">
+		<lennujaamKood>TL-LA</lennujaamKood>
+		<reisinumber>150</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Kon Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>793</reisiaeg>
+		<sihtkoht>Tiga Airport</sihtkoht>
+		<hinnad>963.34</hinnad>
+		<ettevotteNimi>Divanoodle</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="1574">
+		<lennujaamKood>VE-F</lennujaamKood>
+		<reisinumber>1574</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Icabarú Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>714</reisiaeg>
+		<sihtkoht>Domingo Faustino Sarmiento Airport</sihtkoht>
+		<hinnad>969.62</hinnad>
+		<ettevotteNimi>Roodel</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="79">
+		<lennujaamKood>US-LA</lennujaamKood>
+		<reisinumber>79</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Monroe Regional Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>136</reisiaeg>
+		<sihtkoht>Greenbrier Valley Airport</sihtkoht>
+		<hinnad>915.39</hinnad>
+		<ettevotteNimi>Twitterbeat</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="480">
+		<lennujaamKood>CN-22</lennujaamKood>
+		<reisinumber>480</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Baicheng Chang'an Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>267</reisiaeg>
+		<sihtkoht>Prince Mohammad Bin Abdulaziz Airport</sihtkoht>
+		<hinnad>1332.39</hinnad>
+		<ettevotteNimi>Demizz</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="5">
+		<lennujaamKood>MH-MEJ</lennujaamKood>
+		<reisinumber>5</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Mejit Atoll Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>700</reisiaeg>
+		<sihtkoht>Naples International Airport</sihtkoht>
+		<hinnad>1573.86</hinnad>
+		<ettevotteNimi>Dynabox</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="224">
+		<lennujaamKood>VE-N</lennujaamKood>
+		<reisinumber>224</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Maturín Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>87</reisiaeg>
+		<sihtkoht>Katima Mulilo Airport</sihtkoht>
+		<hinnad>1007.18</hinnad>
+		<ettevotteNimi>Cogidoo</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="100">
+		<lennujaamKood>GB-SCT</lennujaamKood>
+		<reisinumber>100</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Whalsay Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>151</reisiaeg>
+		<sihtkoht>Oriximiná Airport</sihtkoht>
+		<hinnad>974.23</hinnad>
+		<ettevotteNimi>Mudo</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="7">
+		<lennujaamKood>ID-RI</lennujaamKood>
+		<reisinumber>7</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Ranai Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>287</reisiaeg>
+		<sihtkoht>Skellefteå Airport</sihtkoht>
+		<hinnad>71.76</hinnad>
+		<ettevotteNimi>Kwilith</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="15">
+		<lennujaamKood>GR-85</lennujaamKood>
+		<reisinumber>15</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Chios Island National Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>910</reisiaeg>
+		<sihtkoht>Yariguíes Airport</sihtkoht>
+		<hinnad>112.49</hinnad>
+		<ettevotteNimi>Twinder</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="1229">
+		<lennujaamKood>US-IA</lennujaamKood>
+		<reisinumber>1229</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Forest City Municipal Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>835</reisiaeg>
+		<sihtkoht>Dachuan Airport</sihtkoht>
+		<hinnad>147.09</hinnad>
+		<ettevotteNimi>Zooveo</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="600">
+		<lennujaamKood>CA-MB</lennujaamKood>
+		<reisinumber>600</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Kelsey Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>945</reisiaeg>
+		<sihtkoht>Val-d'Or Airport</sihtkoht>
+		<hinnad>1409.56</hinnad>
+		<ettevotteNimi>Babbleopia</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="1799">
+		<lennujaamKood>CA-SK</lennujaamKood>
+		<reisinumber>1799</reisinumber>
+		<lennujaamKood>
+			<lennujaam>North Battleford Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>891</reisiaeg>
+		<sihtkoht>Konge Airport</sihtkoht>
+		<hinnad>628.12</hinnad>
+		<ettevotteNimi>Pixoboo</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="32">
+		<lennujaamKood>US-TX</lennujaamKood>
+		<reisinumber>32</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Beaumont Municipal Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>616</reisiaeg>
+		<sihtkoht>Venango Regional Airport</sihtkoht>
+		<hinnad>302.66</hinnad>
+		<ettevotteNimi>Twiyo</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="52">
+		<lennujaamKood>MM-15</lennujaamKood>
+		<reisinumber>52</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Mawlamyine Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>598</reisiaeg>
+		<sihtkoht>Uribe Airport</sihtkoht>
+		<hinnad>1027.60</hinnad>
+		<ettevotteNimi>Linkbridge</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="1605">
+		<lennujaamKood>CN-42</lennujaamKood>
+		<reisinumber>1605</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Enshi Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>845</reisiaeg>
+		<sihtkoht>Garachiné Airport</sihtkoht>
+		<hinnad>746.21</hinnad>
+		<ettevotteNimi>Dynabox</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="5141">
+		<lennujaamKood>MX-MIC</lennujaamKood>
+		<reisinumber>5141</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Zamora Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>934</reisiaeg>
+		<sihtkoht>Chickasha Municipal Airport</sihtkoht>
+		<hinnad>531.39</hinnad>
+		<ettevotteNimi>Oyoyo</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="174">
+		<lennujaamKood>US-AK</lennujaamKood>
+		<reisinumber>174</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Red Devil Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>408</reisiaeg>
+		<sihtkoht>Shiraz Shahid Dastghaib International Airport</sihtkoht>
+		<hinnad>675.79</hinnad>
+		<ettevotteNimi>Babblestorm</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="83">
+		<lennujaamKood>GR-43</lennujaamKood>
+		<reisinumber>83</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Nea Anchialos Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>793</reisiaeg>
+		<sihtkoht>Voinjama Airport</sihtkoht>
+		<hinnad>509.96</hinnad>
+		<ettevotteNimi>Brightbean</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="3543">
+		<lennujaamKood>ZW-MN</lennujaamKood>
+		<reisinumber>3543</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Hwange National Park Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>161</reisiaeg>
+		<sihtkoht>Kamishly Airport</sihtkoht>
+		<hinnad>1035.64</hinnad>
+		<ettevotteNimi>Eimbee</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="26">
+		<lennujaamKood>US-NC</lennujaamKood>
+		<reisinumber>26</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Pitt Greenville Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>841</reisiaeg>
+		<sihtkoht>Ville Airport</sihtkoht>
+		<hinnad>1162.15</hinnad>
+		<ettevotteNimi>Rhynyx</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="1378">
+		<lennujaamKood>ML-3</lennujaamKood>
+		<reisinumber>1378</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Sikasso Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>638</reisiaeg>
+		<sihtkoht>Kota Airport</sihtkoht>
+		<hinnad>393.57</hinnad>
+		<ettevotteNimi>Eimbee</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="709">
+		<lennujaamKood>CA-MB</lennujaamKood>
+		<reisinumber>709</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Cross Lake (Charlie Sinclair Memorial) Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>585</reisiaeg>
+		<sihtkoht>Galcaio Airport</sihtkoht>
+		<hinnad>126.48</hinnad>
+		<ettevotteNimi>Rhybox</ettevotteNimi>
+	</reis>
+	<reis reisiNumber="272">
+		<lennujaamKood>US-MS</lennujaamKood>
+		<reisinumber>272</reisinumber>
+		<lennujaamKood>
+			<lennujaam>Hardy-Anders Field / Natchez-Adams County Airport</lennujaam>
+		</lennujaamKood>
+		<reisiaeg>118</reisiaeg>
+		<sihtkoht>San Salvador de Paul Airport</sihtkoht>
+		<hinnad>1406.71</hinnad>
+		<ettevotteNimi>Riffwire</ettevotteNimi>
+	</reis>
+
+</reisid>

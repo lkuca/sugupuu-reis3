@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sugupuu>
+	<paar>
+		<inimene synniaasta="1955">
+			<nimi>Aleksandr ja Ljudmila</nimi>
+			<synniaasta>1955</synniaasta>
+			<synnikoht>
+				Venemaa
+			</synnikoht>
+			<lapsed>
+				<inimene synniaasta="1972">
+					<nimi>Lena</nimi>
+					<synniaasta>
+						1972
+					</synniaasta>
+					<synnikoht>
+						Venemaa
+					</synnikoht>
+					<lapsed>
+						<inimene synniaasta="1999">
+							<nimi>Anton</nimi>
+							<synniaasta>1999</synniaasta>
+							<synnikoht>Eesti</synnikoht>
+						</inimene>
+						<inimene synniaasta="2015">
+							<nimi>Matvey</nimi>
+							<synniaasta>2015</synniaasta>
+							<synnikoht>Eesti</synnikoht>
+						</inimene>
+					</lapsed>
+				</inimene>
+				<inimene synniaasta="1975">
+					<nimi>Natalja</nimi>
+					<synniaasta>1975</synniaasta>
+					<synnikoht>Venemaa</synnikoht>
+					<lapsed>
+						<inimene synniaasta="2006">
+							<nimi>
+								Luca
+							</nimi>
+							<synniaasta>2006</synniaasta>
+							<synnikoht>Eesti</synnikoht>
+						</inimene>
+						<inimene synniaasta="2017">
+							<nimi>Sonja</nimi>
+							<synniaasta>2017</synniaasta>
+							<synnikoht>Eesti</synnikoht>
+						</inimene>
+					</lapsed>
+				</inimene>
+			</lapsed>
+		</inimene>
+	</paar>
+</sugupuu>
