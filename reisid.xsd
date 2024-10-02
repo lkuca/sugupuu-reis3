@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="reisid">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="reis">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:choice maxOccurs="unbounded">
+								<xs:element name="lennujaamKood">
+									<xs:complexType mixed="true">
+										<xs:sequence minOccurs="0">
+											<xs:element name="lennujaam" type="xs:string" />
+										</xs:sequence>
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="reisinumber" type="xs:unsignedShort" />
+								<xs:element name="reisiaeg" type="xs:unsignedShort" />
+								<xs:element name="sihtkoht" type="xs:string" />
+								<xs:element name="hinnad" type="xs:decimal" />
+								<xs:element name="ettevotteNimi" type="xs:string" />
+							</xs:choice>
+						</xs:sequence>
+						<xs:attribute name="reisiNumber" type="xs:unsignedShort" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
