@@ -30,3 +30,18 @@ xmlSugupuu-master
 8. Kuva kõik xml andmed tabelina, kus read on üle rea erineva värviga.
 
 ![pilt](https://github.com/user-attachments/assets/7b67582a-cd1d-4043-8d6a-10706baf7459)
+kolm  oma ülesanded valminud xml kohta
+
+1.Reisid, mille kestus on rohkem kui 120 minutit
+
+![pilt](https://github.com/user-attachments/assets/f4ed6c8f-9434-4c81-8b73-1f1a5f0d60ef)
+
+2.Reisid, mille hind ületab 300 EUR
+
+![pilt](https://github.com/user-attachments/assets/09591f63-ef3c-4e56-bbcc-03a1e679dd82)
+
+3.Reisid, mille sihtkoht on Don Mueang International Airport
+
+![pilt](https://github.com/user-attachments/assets/4f446d8c-ce56-4dc7-af40-41cd97f38852)
+
+
