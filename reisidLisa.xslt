@@ -122,5 +122,78 @@
 				</tr>
 			</xsl:for-each>
 		</table>
+		<h1>kolm  oma ülesanded valminud xml kohta</h1>
+		<br />
+		<h3>1.Reisid, mille kestus on rohkem kui 120 minutit:</h3>
+		<xsl:for-each select="reisid/reis[reisiaeg > 120]">
+		    <h1>
+			<xsl:value-of select="sihtkoht"/>
+		    </h1>
+		    <ul>
+			<li>
+			    Reisi number: <xsl:value-of select="reisinumber"/>
+			</li>
+			<li>
+			    Lennujaam: <xsl:value-of select="lennujaamKood/lennujaam"/>
+			</li>
+			<li>
+			    Reisi aeg: <xsl:value-of select="reisiaeg"/> min
+			</li>
+			<li>
+			    Hind: <xsl:value-of select="hinnad"/> EUR
+			</li>
+			<li>
+			    Ettevõtte: <xsl:value-of select="ettevotteNimi"/>
+			</li>
+		   </ul>
+		</xsl:for-each>
+		<br />
+		<h3>Reisid, mille hind ületab 300 EUR:</h3>
+		<xsl:for-each select="reisid/reis[hinnad > 300]">
+		    <h1>
+		        <xsl:value-of select="sihtkoht"/>
+		    </h1>
+		    <ul>
+			<li>
+			    Reisi number: <xsl:value-of select="reisinumber"/>
+			</li>
+			<li>
+			    Lennujaam: <xsl:value-of select="lennujaamKood/lennujaam"/>
+			</li>
+			<li>
+			    Hind: <xsl:value-of select="hinnad"/> EUR
+			</li>
+			<li>
+			    Reisi aeg: <xsl:value-of select="reisiaeg"/> min
+			</li>
+			<li>
+			    Ettevõtte: <xsl:value-of select="ettevotteNimi"/>
+			</li>
+		    </ul>
+		</xsl:for-each>
+		<br />
+		<h3>Reisid, mille sihtkoht on Don Mueang International Airport:</h3>
+		<xsl:for-each select="reisid/reis[sihtkoht = 'Don Mueang International Airport']">
+		    <h1>
+			<xsl:value-of select="sihtkoht"/>
+		    </h1>
+		    <ul>
+			<li>
+			    Reisi number: <xsl:value-of select="reisinumber"/>
+			</li>
+			<li>
+			    Lennujaam: <xsl:value-of select="lennujaamKood/lennujaam"/>
+			</li>
+			<li>
+			    Reisi aeg: <xsl:value-of select="reisiaeg"/> min
+			</li>
+			<li>
+			    Hind: <xsl:value-of select="hinnad"/> EUR
+			</li>
+			<li>
+			    Ettevõtte: <xsl:value-of select="ettevotteNimi"/>
+			</li>
+		   </ul>
+		</xsl:for-each>
 	</xsl:template>
 </xsl:stylesheet>
